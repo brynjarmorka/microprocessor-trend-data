@@ -1,4 +1,20 @@
-# Microprocessor Trend Data
+# Microprocessor Trend Data - Jupyter lab edition 
+
+#### - A project in the subject Visualizing Scientific Data @ the University of Innsbruck
+
+The goal of this project is to improve the Microprosessor Trend Data figure. The notebook will contain many different ways to visualize the data, and should be easily adjusted.
+
+Packages I use:
+
+- numpy
+- matplotlib
+- jupyter lab
+
+____
+
+### Everything below is unchanged from Karl Rupp's repo, forked 22.03.22.
+____
+
 
 This repository contains the raw data used in my blog series on microprocessor trend data:
 
