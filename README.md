@@ -10,6 +10,12 @@ Packages I use:
 - matplotlib
 - jupyter lab
 
+
+This is the two end plots made in the 3 ects subject. See the jupyter notebook "Playing_with_data.ipynb" for details and explaination. (The axes are included in the notebook)
+
+![Plot of frequency, power and number of cores](https://github.com/brynjarmorka/microprocessor-trend-data-jupyter-verison/blob/jupy/Enhanced_plot_feq_pow_cor.png)
+![Plot of frequency and number of transistors](https://github.com/brynjarmorka/microprocessor-trend-data-jupyter-verison/blob/jupy/Enhanced_plot_feq_tran.png)
+
 ____
 
 ### Everything below is unchanged from Karl Rupp's repo, forked 22.03.22.
